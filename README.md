@@ -9,10 +9,14 @@
 
 ---
 
-[Microsoft](#microsoft---senior-software-engineer---web)
-[Oracle](#oracle---principal-front-end-software-developer)  
-[Shopify](#shopify---senior-frontend-software-developer)
-[Thoughtworks](#thoughtworks---senior-software-developer)
+**[- IDEAS](#ideas)**
+
+
+[Microsoft](#microsoft---senior-software-engineer---web)  
+[Oracle](#oracle---principal-front-end-software-developer)    
+[Shopify](#shopify---senior-frontend-software-developer)  
+[Thoughtworks](#thoughtworks---senior-software-developer)  
+
 
 ---  
 
@@ -55,3 +59,11 @@
 - **Interview Process**  
   1. ?
 
+---
+
+# Ideas
+
+- [Twitter](https://careers.twitter.com/) 
+	- [Senior Twitter.com, JS Eng](https://careers.twitter.com/en/work-for-twitter/202101/51973e38-263b-49ff-a41f-0e75e85f8465/9bd6752f-9f50-4a00-aae3-1297f69003c4.html/senior-twitter-com-javascript-engineer.html) (NYC/Tor/Atl/Bost)
+	- [Full-Stack SW Eng - Plat Exp](https://careers.twitter.com/en/work-for-twitter/202202/4d6e382a-bb56-413b-9d6f-a4f49b0c8f90/b6a1b725-29c1-45d0-9afb-3cb821b2413b.html/full-stack-software-engineer-platform-experience-remote-friendly.html)
+	- [SW Eng - All Levels - Discovery Product](https://careers.twitter.com/en/work-for-twitter/202008/8cd9e86b-e257-4a6e-902a-2b3fb8169f90/b9cbdf16-1a78-4e27-b45e-75739f9f590d.html/mid-level-sr-staff-software-engineer-discovery-product.html) 
