@@ -2,8 +2,9 @@
 
 #### My Things
  - [Javascript Cheat Sheet](https://codepen.io/BriceShatzer/pen/xXggaO)
- - Calendars - [Hired](https://hired.com/calendar) | [Google](https://calendar.google.com/calendar/u/0/r/customweek)
-	 - Shareable gCal link - https://calendar.google.com/calendar/u/0?cid=YnJpY2Uuc2hhdHplckBnbWFpbC5jb20
+ - Calendars
+	- [Google](https://calendar.google.com/calendar/u/0/r/customweek)
+	- Shareable gCal link - https://calendar.google.com/calendar/u/0?cid=YnJpY2Uuc2hhdHplckBnbWFpbC5jb20 
  - [How Programmatic Ads Work](https://docs.google.com/drawings/d/1TBjZTK4sqZsMct6tn-flcWpoH9DS5RAWHVwNvVocBzw/edit)
 
 ---
