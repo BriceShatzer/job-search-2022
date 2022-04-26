@@ -60,6 +60,13 @@
 - **Interview Process**  
   1. ?
 
+## VividSeats
+- **Remote/Chicago**
+- LinkedIn via a recruiter 
+- [Sr. Web Engineer](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
+- [Engineering Manager (B2C Web)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-b2c-web/161337)
+- [Engineering Manager (services)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
+
 ---
 
 # Ideas
