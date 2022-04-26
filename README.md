@@ -4,17 +4,27 @@
  - [Javascript Cheat Sheet](https://codepen.io/BriceShatzer/pen/xXggaO)
  - Calendars
 	- [Google](https://calendar.google.com/calendar/u/0/r/customweek)
-	- Shareable gCal link - https://calendar.google.com/calendar/u/0?cid=YnJpY2Uuc2hhdHplckBnbWFpbC5jb20 
+	- Shareable availability gCal link - https://calendar.google.com/calendar/u/0?cid=YnJpY2Uuc2hhdHplckBnbWFpbC5jb20 
  - [How Programmatic Ads Work](https://docs.google.com/drawings/d/1TBjZTK4sqZsMct6tn-flcWpoH9DS5RAWHVwNvVocBzw/edit)
 
 ---
 
-
+[Microsoft](#microsoft---senior-software-engineer---web)
 [Oracle](#oracle---principal-front-end-software-developer)  
 [Shopify](#shopify---senior-frontend-software-developer)
 [Thoughtworks](#thoughtworks---senior-software-developer)
 
 ---  
+
+## Microsoft - [Senior Software Engineer - Web](https://careers.microsoft.com/us/en/job/1321334/Senior-Software-Engineer-Web)  
+- **Remote** (Chicago?)  
+- via LinkedIn?   
+- **Info**  
+	- Flipgrid [Again](https://github.com/BriceShatzer/Flipgrid-Code-Challenge) ಠ_ಠ  
+- **Interview Process**  
+  1. ?  
+
+
 
 ## Oracle - [Principal Front End Software Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162907)  
 - **Remote**  
