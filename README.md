@@ -1,4 +1,4 @@
-# Job Search - 2021
+# Job Search - 2022
 
 #### My Things
  - [Javascript Cheat Sheet](https://codepen.io/BriceShatzer/pen/xXggaO)
