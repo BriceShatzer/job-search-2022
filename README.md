@@ -36,9 +36,13 @@
 - via LinkedIn? (motion recruitment)  
 - **Info**  
  	- Cloud Engineering Infrastructure Development ಠ_ಠ  
- 	- Global Business Units  
+ 	- Building stuff for Global Business Units  
+ 	- Angular moving to React? 
 - **Interview Process**  
   1. Call w/ Joan Cunningham (Principal Talent Advisor)
+  2. Call w/ Ian (Hiring manager)
+  3. (2?) Panels w/ team
+  4. Verbal Offer -> Written Offer -> BG Check
 
 
 ## Shopify - [Senior Frontend Software Developer](https://www.smartr.me/public/apply/company/Shopify/publication/61285591-4d2e-4f13-84f6-3fd5f98be2f2)  
@@ -83,3 +87,4 @@
 	- Questions
 		- [SW Eng Interview Questions](https://www.glassdoor.com/Interview/Grubhub-Software-Engineer-Interview-Questions-EI_IE419089.0,7_KO8,25.htm)
 		- [Senior SW Eng Interview Questions](https://www.glassdoor.com/Interview/Grubhub-Senior-Software-Engineer-Interview-Questions-EI_IE419089.0,7_KO8,32.htm?sort.sortType=RD&sort.ascending=false&filter.jobTitleFTS=Senior+Software+Engineer)
+- [Levels.fyi - Senior Frontend Engineer](https://levelsfyi.notion.site/Senior-Frontend-Engineer-140-190k-Salary-0-2-0-6-Equity-213e88723fcf479fa0e9fa1a2147c664)
