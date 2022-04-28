@@ -88,3 +88,4 @@
 		- [SW Eng Interview Questions](https://www.glassdoor.com/Interview/Grubhub-Software-Engineer-Interview-Questions-EI_IE419089.0,7_KO8,25.htm)
 		- [Senior SW Eng Interview Questions](https://www.glassdoor.com/Interview/Grubhub-Senior-Software-Engineer-Interview-Questions-EI_IE419089.0,7_KO8,32.htm?sort.sortType=RD&sort.ascending=false&filter.jobTitleFTS=Senior+Software+Engineer)
 - [Levels.fyi - Senior Frontend Engineer](https://levelsfyi.notion.site/Senior-Frontend-Engineer-140-190k-Salary-0-2-0-6-Equity-213e88723fcf479fa0e9fa1a2147c664)
+- [4DayWeek](https://4dayweek.io/)
