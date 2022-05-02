@@ -39,7 +39,7 @@
  	- Building stuff for Global Business Units  
  	- Angular moving to React? 
 - **Interview Process**  
-  1. Call w/ Joan Cunningham (Principal Talent Advisor)
+  1. ~Call w/ Joan Cunningham (Principal Talent Advisor)~
   2. Call w/ Ian (Hiring manager)
   3. (2?) Panels w/ team
   4. Verbal Offer -> Written Offer -> BG Check
@@ -70,6 +70,16 @@
 - [Sr. Web Engineer](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
 - [Engineering Manager (B2C Web)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-b2c-web/161337)
 - [Engineering Manager (services)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
+- **Interview Process**  
+  1. ~Initial Call w/ [Mikchael Milburn](https://www.linkedin.com/in/michaeljmilburn/)~
+  2. Call w/ [Torsten Baumann](https://www.linkedin.com/in/torbaumann)
+  3. Senior Dev
+	- 1hr Coding/Pairing
+	- 1hr Architecture  
+  4. Manager
+	- 1hr Architecture
+	- 1hr Panel/Employee 
+
 
 ---
 
