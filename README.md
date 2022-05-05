@@ -2,6 +2,7 @@
 
 #### My Things
  - [Javascript Cheat Sheet](https://codepen.io/BriceShatzer/pen/xXggaO)
+ - [Manager-esque things I've done](https://gist.github.com/BriceShatzer/9ed24b166230cfc6dd7cdee4886c7369)
  - Calendars
 	- [Google](https://calendar.google.com/calendar/u/0/r/customweek)
 	- Shareable availability gCal link - https://calendar.google.com/calendar/u/0?cid=YnJpY2Uuc2hhdHplckBnbWFpbC5jb20 
