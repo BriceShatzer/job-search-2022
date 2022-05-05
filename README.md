@@ -45,17 +45,6 @@
   4. Verbal Offer -> Written Offer -> BG Check
 
 
-## Shopify - [Senior Frontend Software Developer](https://www.smartr.me/public/apply/company/Shopify/publication/61285591-4d2e-4f13-84f6-3fd5f98be2f2)  
-- **Remote**  
-- [Glassdoor](https://www.glassdoor.com/Reviews/Shopify-Reviews-E675933.htm)
-- **Info**  
- 	- [Dope Interview Process?](https://twitter.com/DaliaShea/status/1517857987129450496?s=20&t=J54ssU9gU_APHEyVhgBi5A)  
-- **Interview Process**  
-  1. code exercise interview
-      - [Soda/Popcorn question](http://www.glassdoor.com/Interview/Shopify-Interview-RVW58364690.htm)
-
-
-
 ## Thoughtworks - [Senior Software Developer](https://www.thoughtworks.com/careers/jobs/2599775)  
 - **Remote**  
 - While we’ve traditionally been a traveling consultancy, travel is not required for this role at the moment. We anticipate the need for travel to our client locations in the future when it’s deemed safe.    
@@ -79,6 +68,23 @@
   4. Manager
 	- 1hr Architecture
 	- 1hr Panel/Employee 
+
+
+---
+
+# Rejected
+
+## Shopify - [Senior Frontend Software Developer](https://www.smartr.me/public/apply/company/Shopify/publication/61285591-4d2e-4f13-84f6-3fd5f98be2f2)  
+- **Remote**  
+- [Glassdoor](https://www.glassdoor.com/Reviews/Shopify-Reviews-E675933.htm)
+- **Info**  
+ 	- [Dope Interview Process?](https://twitter.com/DaliaShea/status/1517857987129450496?s=20&t=J54ssU9gU_APHEyVhgBi5A)  
+- **Interview Process**  
+  1. code exercise interview
+		- [Canadian Post Code Checker](https://codepen.io/BriceShatzer/pen/RwQbPPg)
+      	- ~[Soda/Popcorn question](http://www.glassdoor.com/Interview/Shopify-Interview-RVW58364690.htm)~
+
+
 
 
 ---
