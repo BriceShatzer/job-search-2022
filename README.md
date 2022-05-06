@@ -34,15 +34,17 @@
 
 ## Oracle - [Principal Front End Software Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162907)  
 - **Remote**  
-- via LinkedIn? (motion recruitment)  
+- via LinkedIn?  
 - **Info**  
- 	- Cloud Engineering Infrastructure Development ಠ_ಠ  
  	- Building stuff for Global Business Units  
- 	- Angular moving to React? 
+ 	- [JET](https://www.oracle.com/webfolder/technetwork/jet/index.html) -> Preact
+ 	- IC-4 level
+ 	- ? Cloud Engineering Infrastructure Development - Redwood Accelators ? 
+
 - **Interview Process**  
   1. ~Call w/ Joan Cunningham (Principal Talent Advisor)~
-  2. Call w/ Ian (Hiring manager)
-  3. (2?) Panels w/ team
+  2. ~Call w/ [Ian (Hiring manager)](https://www.linkedin.com/in/ian-butt-05953a5/)~
+  3. Technical Call w/ Arcitects
   4. Verbal Offer -> Written Offer -> BG Check
 
 
@@ -62,8 +64,9 @@
 - [Engineering Manager (services)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
 - **Interview Process**  
   1. ~Initial Call w/ [Mikchael Milburn](https://www.linkedin.com/in/michaeljmilburn/)~
-  2. Call w/ [Torsten Baumann](https://www.linkedin.com/in/torbaumann)
-  3. Senior Dev
+  2. ~Call w/ [Torsten Baumann](https://www.linkedin.com/in/torbaumann)~
+	- swiss heritage, soccer guy (Toronto fan) 
+  4. Senior Dev
 	- 1hr Coding/Pairing
 	- 1hr Architecture  
   4. Manager
