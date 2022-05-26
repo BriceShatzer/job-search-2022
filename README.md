@@ -12,14 +12,14 @@
 
 **[- IDEAS](#ideas)**
 
-[Grubhub](#grubhub)
-[John Deere](#john-deere---ux-staff-software-engineer)
-[LMG Labs](#lmg-labs---full-time-front-end-developer)
+[Grubhub](#grubhub)  
+[John Deere](#john-deere---ux-staff-software-engineer)  
+[LMG Labs](#lmg-labs---full-time-front-end-developer)  
 [Microsoft](#microsoft---senior-software-engineer---web)  
 [Oracle](#oracle---principal-front-end-software-developer)    
 [Shopify](#shopify---senior-frontend-software-developer)  
-[Thoughtworks](#thoughtworks---senior-software-developer)  
-[VividSeats](#VividSeats)  
+[Thoughtworks](#thoughtworks---senior-software-developer)    
+[VividSeats](#vividseats)  
 
 
 ---  
