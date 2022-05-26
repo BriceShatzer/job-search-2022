@@ -16,6 +16,7 @@
 [John Deere](#john-deere---ux-staff-software-engineer)  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
 [Microsoft](#microsoft---senior-software-engineer---web)  
+[New Relic](#new-relic)  
 [Oracle](#oracle---principal-front-end-software-developer)    
 [Shopify](#shopify---senior-frontend-software-developer)  
 [Thoughtworks](#thoughtworks---senior-software-developer)    
@@ -27,7 +28,7 @@
 
 ## Grubhub
 - **Remote/Chicago**
-- LinkedIn via a recruiter 
+- LinkedIn 
 - [Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3075888389)
 - [Staff Front-End Engineer](https://www.linkedin.com/jobs/view/3075888240)
 
@@ -55,6 +56,13 @@
 - **Interview Process**  
   1. ?  
 
+
+
+## New Relic
+- **Remote/Chicago**
+- LinkedIn via a recruiter 
+- [Senior Front-End Software Engineer](https://www.linkedin.com/jobs/view/2971018403) - System Change Tracking  
+- [Senior UI Software Engineer](https://www.linkedin.com/jobs/view/3004858113) - Infrastructure
 
 
 
