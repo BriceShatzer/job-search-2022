@@ -12,7 +12,7 @@
 
 **[- IDEAS](#ideas)**
 
-
+[John Deere](#john-deere---ux-staff-software-engineer)
 [Microsoft](#microsoft---senior-software-engineer---web)  
 [Oracle](#oracle---principal-front-end-software-developer)    
 [Shopify](#shopify---senior-frontend-software-developer)  
@@ -21,6 +21,18 @@
 
 
 ---  
+
+
+## John Deere - [UX Staff Software Engineer](https://jobs.deere.com/job/Chicago-or-Moline-UX-Staff-Software-Engineer-Illi-60607/887187900/)
+- **Remote/Chicago**
+- LinkedIn via a recruiter 
+- told them tc range of $175-$205
+- **Interview Process**  
+  1. hiring manager 
+  2. behavioral onsite   
+
+
+
 
 ## Microsoft - [Senior Software Engineer - Web](https://careers.microsoft.com/us/en/job/1321334/Senior-Software-Engineer-Web)  
 - **Remote** (Chicago?)  
@@ -31,21 +43,6 @@
   1. ?  
 
 
-
-## Oracle - [Principal Front End Software Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162907)  
-- **Remote**  
-- via LinkedIn?  
-- **Info**  
- 	- Building stuff for Global Business Units  
- 	- [JET](https://www.oracle.com/webfolder/technetwork/jet/index.html) -> Preact
- 	- IC-4 level
- 	- ? Cloud Engineering Infrastructure Development - Redwood Accelators ? 
-
-- **Interview Process**  
-  1. ~Call w/ Joan Cunningham (Principal Talent Advisor)~
-  2. ~Call w/ [Ian (Hiring manager)](https://www.linkedin.com/in/ian-butt-05953a5/)~
-  3. Technical Call w/ Arcitects
-  4. Verbal Offer -> Written Offer -> BG Check
 
 
 
@@ -71,6 +68,24 @@
 ---
 
 # Rejected
+
+## Oracle - [Principal Front End Software Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162907)  
+*The team thought you were not as strong as they needed for this role*
+- **Remote**  
+- via LinkedIn?  
+- **Info**  
+ 	- Building stuff for Global Business Units  
+ 	- [JET](https://www.oracle.com/webfolder/technetwork/jet/index.html) -> Preact
+ 	- IC-4 level
+ 	- ? Cloud Engineering Infrastructure Development - Redwood Accelators ? 
+
+- **Interview Process**  
+  1. ~Call w/ Joan Cunningham (Principal Talent Advisor)~
+  2. ~Call w/ [Ian (Hiring manager)](https://www.linkedin.com/in/ian-butt-05953a5/)~
+  3. ~Technical Call w/ Arcitects~
+  4. Verbal Offer -> Written Offer -> BG Check
+
+
 
 ## Shopify - [Senior Frontend Software Developer](https://www.smartr.me/public/apply/company/Shopify/publication/61285591-4d2e-4f13-84f6-3fd5f98be2f2)  
 *bombed initial screen*
