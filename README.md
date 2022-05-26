@@ -13,6 +13,7 @@
 **[- IDEAS](#ideas)**
 
 [John Deere](#john-deere---ux-staff-software-engineer)
+[LMG Labs](#lmg-labs---full-time-front-end-developer)
 [Microsoft](#microsoft---senior-software-engineer---web)  
 [Oracle](#oracle---principal-front-end-software-developer)    
 [Shopify](#shopify---senior-frontend-software-developer)  
@@ -32,6 +33,9 @@
   2. behavioral onsite   
 
 
+## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
+- **Remote/Surrey, BC
+- ¯\\\_(ツ)\_/¯
 
 
 ## Microsoft - [Senior Software Engineer - Web](https://careers.microsoft.com/us/en/job/1321334/Senior-Software-Engineer-Web)  
