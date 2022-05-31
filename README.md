@@ -29,8 +29,9 @@
 ## Grubhub
 - **Remote/Chicago**
 - LinkedIn 
-- [Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3075888389)
-- [Staff Front-End Engineer](https://www.linkedin.com/jobs/view/3075888240)
+- [Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3075888389) - applied
+- [Staff Front-End Engineer](https://www.linkedin.com/jobs/view/3075888240) - applied 
+- [Senior Web Engineer](https://www.linkedin.com/jobs/view/3081842392) - not applied
 
 
 
@@ -39,12 +40,13 @@
 - LinkedIn via a recruiter 
 - told them tc range of $175-$205
 - **Interview Process**  
-  1. hiring manager 
-  2. behavioral onsite   
+  1. ~intial contact - [Cystal Leng](https://www.linkedin.com/in/crystalleng/)~
+  2. hiring manager - [Adam Brunner](https://www.linkedin.com/in/brunneradam/)
+  3. behavioral onsite   
 
 
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
-- **Remote/Surrey, BC
+- **Remote/Surrey, BC**  
 - ¯\\\_(ツ)\_/¯
 
 
@@ -67,23 +69,6 @@
 
 
 
-
-## VividSeats
-- **Remote/Chicago**
-- LinkedIn via a recruiter 
-- [Sr. Web Engineer](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
-- [Engineering Manager (B2C Web)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-b2c-web/161337)
-- [Engineering Manager (services)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
-- **Interview Process**  
-  1. ~Initial Call w/ [Mikchael Milburn](https://www.linkedin.com/in/michaeljmilburn/)~
-  2. ~Call w/ [Torsten Baumann](https://www.linkedin.com/in/torbaumann)~
-	- swiss heritage, soccer guy (Toronto fan) 
-  4. Senior Dev
-	- 1hr Coding/Pairing
-	- 1hr Architecture  
-  4. Manager
-	- 1hr Architecture
-	- 1hr Panel/Employee 
 
 
 ---
@@ -127,6 +112,26 @@
  	- [Dope Interview Process?](https://twitter.com/DaliaShea/status/1517857987129450496?s=20&t=J54ssU9gU_APHEyVhgBi5A)   
 - **Interview Process**  
   1. ?
+
+## VividSeats
+*AWOL*
+- **Remote/Chicago**
+- LinkedIn via a recruiter 
+- [Sr. Web Engineer](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
+- [Engineering Manager (B2C Web)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-b2c-web/161337)
+- [Engineering Manager (services)](https://www.builtinchicago.org/job/engineer/software-engineering-manager-services/168842)
+- **Interview Process**  
+  1. ~Initial Call w/ [Mikchael Milburn](https://www.linkedin.com/in/michaeljmilburn/)~
+  2. ~Call w/ [Torsten Baumann](https://www.linkedin.com/in/torbaumann)~
+	- swiss heritage, soccer guy (Toronto fan) 
+  4. Senior Dev
+	- 1hr Coding/Pairing
+	- 1hr Architecture  
+  4. Manager
+	- 1hr Architecture
+	- 1hr Panel/Employee 
+
+
 
 
 ---
