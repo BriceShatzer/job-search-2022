@@ -29,7 +29,8 @@
 ## Grubhub
 - **Remote/Chicago**
 - LinkedIn 
-- [Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3075888389) - applied
+- ~[Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3075888389) - applied~ - no long accepting apps
+- [Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3098395068) - applied 
 - [Staff Front-End Engineer](https://www.linkedin.com/jobs/view/3075888240) - applied 
 - [Senior Web Engineer](https://www.linkedin.com/jobs/view/3081842392) - not applied
 
