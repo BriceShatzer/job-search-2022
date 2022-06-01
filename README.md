@@ -33,7 +33,7 @@
 - [Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3098395068) - applied 
 - [Staff Front-End Engineer](https://www.linkedin.com/jobs/view/3075888240) - applied 
 - [Senior Web Engineer](https://www.linkedin.com/jobs/view/3081842392) - not applied
-
+- [Sr Frontend SDE](https://www.linkedin.com/jobs/view/3048639516) - not applied
 
 
 ## John Deere - [UX Staff Software Engineer](https://jobs.deere.com/job/Chicago-or-Moline-UX-Staff-Software-Engineer-Illi-60607/887187900/)
