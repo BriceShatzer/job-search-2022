@@ -39,11 +39,14 @@
 ## John Deere - [UX Staff Software Engineer](https://jobs.deere.com/job/Chicago-or-Moline-UX-Staff-Software-Engineer-Illi-60607/887187900/)
 - **Remote/Chicago**
 - LinkedIn via a recruiter 
-- told them tc range of $175-$205
+- told them tc range of $175-$205...seemed into it
 - **Interview Process**  
   1. ~intial contact - [Cystal Leng](https://www.linkedin.com/in/crystalleng/)~
-  2. hiring manager - [Adam Brunner](https://www.linkedin.com/in/brunneradam/)
-  3. behavioral onsite   
+  2. ~hiring manager - [Adam Brunner](https://www.linkedin.com/in/brunneradam/)~
+  3. "onsite"
+	- six? Amazon STAR questions - situation/task/action/result
+	- Hacker Rank - both programming problems & multiple choice
+	- potential pair coding     
 
 
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
@@ -95,7 +98,7 @@
 
 
 ## Shopify - [Senior Frontend Software Developer](https://www.smartr.me/public/apply/company/Shopify/publication/61285591-4d2e-4f13-84f6-3fd5f98be2f2)  
-*bombed initial screen*
+*[bombed initial tech screen](https://codepen.io/BriceShatzer/pen/RwQbPPg)*
 - **Remote**  
 - [Glassdoor](https://www.glassdoor.com/Reviews/Shopify-Reviews-E675933.htm)
 - **Info**  
