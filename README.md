@@ -36,7 +36,7 @@
 - [Sr Frontend SDE](https://www.linkedin.com/jobs/view/3048639516) - not applied
 
 
-## John Deere - [UX Staff Software Engineer](https://jobs.deere.com/job/Chicago-or-Moline-UX-Staff-Software-Engineer-Illi-60607/887187900/)
+## John Deere - [UX Staff Software Engineer](https://jobs.deere.com/job/Chicago-UX-Staff-Software-Engineer-%28CA%29-Illi-60607/892887000/)
 - **Remote/Chicago**
 - LinkedIn via a recruiter 
 - told them tc range of $175-$205...seemed into it
