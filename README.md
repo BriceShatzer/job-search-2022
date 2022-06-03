@@ -54,7 +54,12 @@
 - ¯\\\_(ツ)\_/¯
 
 
+---
+
+# Rejected
+
 ## Microsoft - [Senior Software Engineer - Web](https://careers.microsoft.com/us/en/job/1321334/Senior-Software-Engineer-Web)  
+*Unfortunately, we will not be moving forward with your candidacy for the position*
 - **Remote** (Chicago?)  
 - via LinkedIn?   
 - **Info**  
@@ -65,6 +70,7 @@
 
 
 ## New Relic
+*role is no longer available*
 - **Remote/Chicago**
 - LinkedIn via a recruiter 
 - [Senior Front-End Software Engineer](https://www.linkedin.com/jobs/view/2971018403) - System Change Tracking  
@@ -73,11 +79,6 @@
 
 
 
-
-
----
-
-# Rejected
 
 ## Oracle - [Principal Front End Software Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162907)  
 *The team thought you were not as strong as they needed for this role*
