@@ -18,6 +18,7 @@
 [Microsoft](#microsoft---senior-software-engineer---web)  
 [New Relic](#new-relic)  
 [Oracle](#oracle---principal-front-end-software-developer)    
+[Reddit](#reddit)
 [Shopify](#shopify---senior-frontend-software-developer)  
 [Thoughtworks](#thoughtworks---senior-software-developer)    
 [VividSeats](#vividseats)  
@@ -53,6 +54,13 @@
 - **Remote/Surrey, BC**  
 - ¯\\\_(ツ)\_/¯
 
+## Reddit
+- **Remote**
+- [Senior Frontend Engineer, Core Experience](https://boards.greenhouse.io/reddit/jobs/3972588) - 1 week on linkedIn
+- [Staff Frontend Engineer, Web Platform](https://boards.greenhouse.io/reddit/jobs/3900576) - 13hrs & 3 weeks on linkedIn
+- [Senior / Staff Frontend Engineer - Consumer Products](https://boards.greenhouse.io/reddit/jobs/3848638) - 2 days on linkedIn
+- [Principal Frontend Engineer - Ads](https://boards.greenhouse.io/reddit/jobs/4265311) - 1 day on linkedIn
+- [Senior Frontend Engineer, Ads](https://boards.greenhouse.io/reddit/jobs/2558850) - 2 weeks on linkedIn
 
 ---
 
