@@ -78,11 +78,12 @@
 
 
 ## New Relic
-*role is no longer available*
 - **Remote/Chicago**
 - LinkedIn via a recruiter 
 - [Senior Front-End Software Engineer](https://www.linkedin.com/jobs/view/2971018403) - System Change Tracking  
+	- *role is no longer available*
 - [Senior UI Software Engineer](https://www.linkedin.com/jobs/view/3004858113) - Infrastructure
+	- *we have decided to move forward with other candidates.* 
 
 
 
