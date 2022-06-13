@@ -20,6 +20,7 @@
 [Oracle](#oracle---principal-front-end-software-developer)    
 [Reddit](#reddit)
 [Shopify](#shopify---senior-frontend-software-developer)  
+[Square](#square---lead-front-end-engineer)  
 [Thoughtworks](#thoughtworks---senior-software-developer)    
 [VividSeats](#vividseats)  
 
@@ -61,6 +62,11 @@
 - [Senior / Staff Frontend Engineer - Consumer Products](https://boards.greenhouse.io/reddit/jobs/3848638) - 2 days on linkedIn
 - [Principal Frontend Engineer - Ads](https://boards.greenhouse.io/reddit/jobs/4265311) - 1 day on linkedIn
 - [Senior Frontend Engineer, Ads](https://boards.greenhouse.io/reddit/jobs/2558850) - 2 weeks on linkedIn
+
+
+## Square - [Lead Front End Engineer](https://www.smartr.me/public/apply/company/Square/publication/91bd81ef-b2ce-4766-a4d2-b83900ed33d7?applied=true&utm_source=cp_saved_jobs)  
+- **Remote/Chicago**
+- Payment Reporting
 
 ---
 
