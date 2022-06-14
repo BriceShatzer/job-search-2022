@@ -12,7 +12,7 @@
 
 **[- IDEAS](#ideas)**
 
-[Adobe](#adobe---software-development-engineer---front-end)
+[Adobe](#adobe---software-development-engineer---front-end)  
 [Grubhub](#grubhub)  
 [John Deere](#john-deere---ux-staff-software-engineer)  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
