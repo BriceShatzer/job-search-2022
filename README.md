@@ -43,13 +43,13 @@
 - LinkedIn via a recruiter 
 - told them tc range of $175-$205...seemed into it
 - **Interview Process**  
-  1. ~intial contact - [Cystal Leng](https://www.linkedin.com/in/crystalleng/)~
-  2. ~hiring manager - [Adam Brunner](https://www.linkedin.com/in/brunneradam/)~
-  3. "onsite"
-	- six? Amazon STAR questions - situation/task/action/result
-	- Hacker Rank - both programming problems & multiple choice
-	- potential pair coding     
-
+  1. ~initial contact - [Cystal Leng](https://www.linkedin.com/in/crystalleng/)~
+  2. ~a manager interview - [Adam Brunner](https://www.linkedin.com/in/brunneradam/)~
+  3. ~"onsite"~
+		+ [Delaney](https://www.linkedin.com/in/delaney-kolberg-3115a128/)(UX Design Lead) & [Ryan](https://www.linkedin.com/in/ryan-bergman-3665763/)(Staff Engineer) - STAR behavioral questions  
+		+ [Mike](https://www.linkedin.com/in/mikehoeg/)(**Hiring Manager**) & [Gene](https://www.linkedin.com/in/genepaularch/)(Staff Engineer) - STAR behavioral questions  
+		+ [Zach](https://www.linkedin.com/in/zachpratt/)(Principal Engineer) - Technical Questions  
+	4. Interviewing folks 6/13-17, should hear back by the mid/end of week of 6/20
 
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
 - **Remote/Surrey, BC**  
