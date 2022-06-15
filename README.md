@@ -77,10 +77,6 @@
 - [Senior Frontend Engineer, Ads](https://boards.greenhouse.io/reddit/jobs/2558850) - 2 weeks on linkedIn
 
 
-## Square - [Lead Front End Engineer](https://www.smartr.me/public/apply/company/Square/publication/91bd81ef-b2ce-4766-a4d2-b83900ed33d7?applied=true&utm_source=cp_saved_jobs)  
-- **Remote/Chicago**
-- Payment Reporting
-
 ---
 
 # Rejected
@@ -136,6 +132,14 @@
   1. code exercise interview
 		- [Canadian Post Code Checker](https://codepen.io/BriceShatzer/pen/RwQbPPg)
       	- ~[Soda/Popcorn question](http://www.glassdoor.com/Interview/Shopify-Interview-RVW58364690.htm)~
+
+
+## Square - [Lead Front End Engineer](https://www.smartr.me/public/apply/company/Square/publication/91bd81ef-b2ce-4766-a4d2-b83900ed33d7?applied=true&utm_source=cp_saved_jobs)  
+*We have decided to move forward with other applicants at this time.*  
+- **Remote/Chicago**
+- Payment Reporting
+
+
 
 ## Thoughtworks - [Senior Software Developer](https://www.thoughtworks.com/careers/jobs/2599775)  
 *Position no longer open*
