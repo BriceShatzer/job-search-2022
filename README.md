@@ -12,20 +12,20 @@
 
 **[- IDEAS](#ideas)**
 
-[Adobe](#adobe---software-development-engineer---front-end)  
+~[Adobe](#adobe---software-development-engineer---front-end)~  
 [Disney/ESPN](#disneyespn)  
 [Grubhub](#grubhub)  
-[John Deere](#john-deere---ux-staff-software-engineer)  
+~[John Deere](#john-deere---ux-staff-software-engineer)~  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
-[Medium](#medium--senior-web-product-engineer)  
-[Microsoft](#microsoft---senior-software-engineer---web)  
-[New Relic](#new-relic)  
-[Oracle](#oracle---principal-front-end-software-developer)    
-[Reddit](#reddit)
-[Shopify](#shopify---senior-frontend-software-developer)  
-[Square](#square---lead-front-end-engineer)  
-[Thoughtworks](#thoughtworks---senior-software-developer)    
-[VividSeats](#vividseats)  
+[Medium](#medium---senior-web-product-engineer)  
+~[Microsoft](#microsoft---senior-software-engineer---web)~  
+~[New Relic](#new-relic)~  
+~[Oracle](#oracle---principal-front-end-software-developer)~    
+[Reddit](#reddit)  
+~[Shopify](#shopify---senior-frontend-software-developer)~  
+~[Square](#square---lead-front-end-engineer)~  
+~[Thoughtworks](#thoughtworks---senior-software-developer)~    
+~[VividSeats](#vividseats)~  
 
 
 ---  
