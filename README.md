@@ -37,13 +37,16 @@
 
 ## Grubhub
 - **Remote/Chicago**
-- LinkedIn 
-- ~[Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3075888389) - applied~ - no long accepting apps
+- LinkedIn  
+- [Sr Web Engineer](https://www.linkedin.com/jobs/view/3143469197) - applied 
 - [Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3098395068) - applied 
-- [Senior Front End Software Engineer](https://www.linkedin.com/jobs/view/3081846891/) - applied
-- [Staff Front-End Engineer](https://www.linkedin.com/jobs/view/3075888240) - applied 
-- [Senior Web Engineer](https://www.linkedin.com/jobs/view/3081842392) - not applied
-- [Sr Frontend SDE](https://www.linkedin.com/jobs/view/3048639516) - not applied
+- [Senior Front End Software Engineer](https://www.linkedin.com/jobs/view/3081846891/) - applied  
+- [Staff Front-End Engineer](https://www.linkedin.com/jobs/view/3075888240) - applied  
+- [Sr Frontend SDE](https://www.linkedin.com/jobs/view/3048639516) - applied  
+- ~[Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3075888389) - applied~ - no long accepting apps  
+- ~[Senior Web Engineer](https://www.linkedin.com/jobs/view/3081842392) - No longer accepting applications~
+  
+
 
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
 - **Remote/Surrey, BC**  
