@@ -17,6 +17,7 @@
 [Grubhub](#grubhub)  
 [John Deere](#john-deere---ux-staff-software-engineer)  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
+[Medium](#medium--senior-web-product-engineer)  
 [Microsoft](#microsoft---senior-software-engineer---web)  
 [New Relic](#new-relic)  
 [Oracle](#oracle---principal-front-end-software-developer)    
@@ -51,6 +52,17 @@
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
 - **Remote/Surrey, BC**  
 - ¯\\\_(ツ)\_/¯
+
+## Medium - [Senior Web Product Engineer](https://jobs.lever.co/medium/802c2ae9-8735-4127-9d4e-2543e2dbf715)  
+- **Remote**
+- recruiter  
+- role starts at $180k (unclear if base or tc), 100% of medical, shares vested @ 25% over 4yrs  
+- **Interview Process**  
+  1. ~initial contact - [Ayelen Zamora](https://www.linkedin.com/in/aye-zamora/)~  
+  2. hiring a manager interview  
+  3. take-home exercise  
+  4. "Loop"  
+
 
 ## Reddit
 - **Remote**
