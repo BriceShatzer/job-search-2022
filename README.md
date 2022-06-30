@@ -18,7 +18,7 @@
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
 [Medium](#medium---senior-web-product-engineer)  
-~[Microsoft](#microsoft---senior-software-engineer---web)~  
+[Microsoft](#microsoft)  
 ~[New Relic](#new-relic)~  
 ~[Oracle](#oracle---principal-front-end-software-developer)~    
 [Reddit](#reddit)  
@@ -63,6 +63,14 @@
   3. take-home exercise  
   4. "Loop"  
 
+## Microsoft 
+- **Remote** (Chicago?)  
+- via LinkedIn   
+- [Senior Software Engineer- Front End](https://www.linkedin.com/jobs/view/3147921597)  
+- ~[Senior Software Engineer - Web](https://careers.microsoft.com/us/en/job/1321334/Senior-Software-Engineer-Web)~  
+	- *Unfortunately, we will not be moving forward with your candidacy for the position*
+
+
 
 ## Reddit
 - **Remote**
@@ -99,16 +107,6 @@
 		+ [Zach](https://www.linkedin.com/in/zachpratt/)(Principal Engineer) - Technical Questions  
 	4. Interviewing folks 6/13-17, should hear back by the mid/end of week of 6/20
 
-
-
-## Microsoft - [Senior Software Engineer - Web](https://careers.microsoft.com/us/en/job/1321334/Senior-Software-Engineer-Web)  
-*Unfortunately, we will not be moving forward with your candidacy for the position*
-- **Remote** (Chicago?)  
-- via LinkedIn?   
-- **Info**  
-	- Flipgrid [Again](https://github.com/BriceShatzer/Flipgrid-Code-Challenge) ಠ_ಠ  
-- **Interview Process**  
-  1. ?  
 
 
 
