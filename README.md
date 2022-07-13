@@ -54,10 +54,11 @@
 - recruiter  
 - role starts at $180k (unclear if base or tc), 100% of medical, shares vested @ 25% over 4yrs  
 - **Interview Process**  
-  1. ~initial contact - [Ayelen Zamora](https://www.linkedin.com/in/aye-zamora/)~  
-  2. hiring a manager interview  
-  3. take-home exercise  
-  4. "Loop"  
+  1. ~initial contact - [Ayelen Zamora](https://www.linkedin.com/in/aye-zamora/) - call on 6/28~  
+		-  *Response to following up on 7/13:  Medium closed from 4th - 8th & Ayelen returns 7/18*
+  3. hiring a manager interview  
+  4. take-home exercise  
+  5. "Loop"  
 
 ## Microsoft 
 - **Remote** (Chicago?)  
