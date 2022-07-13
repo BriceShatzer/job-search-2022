@@ -13,7 +13,7 @@
 **[- IDEAS](#ideas)**
 
 ~[Adobe](#adobe---software-development-engineer---front-end)~  
-[Disney/ESPN](#disneyespn)  
+~[Disney/ESPN](#disneyespn)~  
 [Grubhub](#grubhub)  
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
@@ -29,11 +29,6 @@
 
 
 ---  
-
-## Disney/ESPN 
-- **Remote/Bristol,CT**
-- Sr Software Engineer, Frontend 
-	+ [LinkedIn](https://www.linkedin.com/jobs/view/3077923647) -> [Disney Job Board](https://jobs.disneycareers.com/job/-/-/391/29365820096)
 
 
 ## Grubhub
@@ -91,6 +86,13 @@
 *Unfortunately, we will not be moving forward with your application*  
 - **Remote**  
 - LinkedIn
+
+
+## Disney/ESPN 
+*didn't match requirements?!?!*
+- **Remote/Bristol,CT**
+- Sr Software Engineer, Frontend 
+	+ [LinkedIn](https://www.linkedin.com/jobs/view/3077923647) -> [Disney Job Board](https://jobs.disneycareers.com/job/-/-/391/29365820096)
 
 
 
