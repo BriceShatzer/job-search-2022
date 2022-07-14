@@ -13,7 +13,7 @@
 **[- IDEAS](#ideas)**
 
 ~[Adobe](#adobe---software-development-engineer---front-end)~  
-[CME Group](#cme-group---sr-software-engineer---frontend)
+[CME Group](#cme-group---sr-software-engineer---frontend)  
 ~[Disney/ESPN](#disneyespn)~  
 [Grubhub](#grubhub)  
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
