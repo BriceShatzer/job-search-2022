@@ -16,6 +16,7 @@
 [CME Group](#cme-group---sr-software-engineer---frontend)  
 ~[Disney/ESPN](#disneyespn)~  
 [Grubhub](#grubhub)  
+[Jackbox Games](#jackbox-games---front-end-software-engineer)  
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
 [M1 Finance](#m1---senior-product-engineer)  
@@ -48,6 +49,13 @@
 - ~[Sr. Front-End Software Engineer](https://www.linkedin.com/jobs/view/3075888389) - applied~ - no long accepting apps  
 - ~[Senior Web Engineer](https://www.linkedin.com/jobs/view/3081842392) - No longer accepting applications~
   
+
+
+## Jackbox Games - [Front End Software Engineer](https://jackbox-games.breezy.hr/p/74fefa6be41c-front-end-software-engineer)
+- *not yet applied, need to write cover letter answering:*  
+	- *Why are you interested in working at Jackbox Games?*  
+	- *What is your favorite game and why? There's no right answer–we love anything from tag on the playground through Elden Ring.* 	  
+- **Remote/Chicago**  
 
 
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
