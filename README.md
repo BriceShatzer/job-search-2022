@@ -18,6 +18,7 @@
 [Grubhub](#grubhub)  
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
+[M1 Finance](#m1---senior-product-engineer)  
 [Medium](#medium---senior-web-product-engineer)  
 ~[Microsoft](#microsoft)~  
 ~[New Relic](#new-relic)~  
@@ -52,6 +53,18 @@
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
 - **Remote/Surrey, BC**  
 - ¯\\\_(ツ)\_/¯
+
+
+
+## M1 - [Senior Product Engineer](https://boards.greenhouse.io/m1finance/jobs/4249031)  
+- *not yet applied*  
+- **Remote/Chicago**
+- [glassdoor](https://www.glassdoor.com/Reviews/M1-Reviews-E1027358.htm)  
+- [levels.fyi](https://www.levels.fyi/companies/m1-finance/salaries/software-engineer)  
+
+
+
+
 
 ## Medium - [Senior Web Product Engineer](https://jobs.lever.co/medium/802c2ae9-8735-4127-9d4e-2543e2dbf715)  
 - **Remote**
