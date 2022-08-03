@@ -51,11 +51,9 @@
   
 
 
-## Jackbox Games - [Front End Software Engineer](https://jackbox-games.breezy.hr/p/74fefa6be41c-front-end-software-engineer)
-- *not yet applied, need to write cover letter answering:*  
-	- *Why are you interested in working at Jackbox Games?*  
-	- *What is your favorite game and why? There's no right answer–we love anything from tag on the playground through Elden Ring.* 	  
+## Jackbox Games - [Front End Software Engineer](https://jackbox-games.breezy.hr/p/74fefa6be41c-front-end-software-engineer)    
 - **Remote/Chicago**  
+- [Cover Letter](https://briceshatzer.com/blog/jackbox-cover-letter)
 
 
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
