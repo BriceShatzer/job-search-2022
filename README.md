@@ -15,6 +15,7 @@
 ~[Adobe](#adobe---software-development-engineer---front-end)~  
 [CME Group](#cme-group---sr-software-engineer---frontend)  
 ~[Disney/ESPN](#disneyespn)~  
+[Fubo Gaming](#fubo-gaming---senior-software-engineer-webfrontend)  
 [Grubhub](#grubhub)  
 [Jackbox Games](#jackbox-games---front-end-software-engineer)  
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
@@ -35,6 +36,9 @@
 
 ## CME Group - [Sr. Software Engineer - Frontend](https://jobs.cmegroup.com/jobs/9281517-sr-software-engineer-frontend#start)  
 - Chicago
+
+## Fubo Gaming - [Senior Software Engineer, Web/Frontend](https://boards.greenhouse.io/fubogaming/jobs/3606653)  
+- Chicago  
 
 
 ## Grubhub
@@ -221,7 +225,25 @@
 ---
 
 # Ideas
-- [Google Senior Software Engineer, Front End](https://careers.google.com/jobs/results/96987767604421318/)
+
+- CAT - [Lead Software Engineer (UI / Front-end)](https://www.builtinchicago.org/job/engineer/lead-software-engineer-ui-front-end/180642)  
+- DRW (trading firm) - [Software Engineer, UI/JavaScript](https://www.builtinchicago.org/job/engineer/software-engineer-uijavascript/130766)  
+- Chicago Fed  
+	- [Senior Front End Dev](https://www.builtinchicago.org/job/engineer/senior-front-end-developer/179756)  
+	- [Lead Front End Dev](https://www.builtinchicago.org/job/engineer/lead-front-end-developer/179757)  
+	- [Engineering Manager UX/UI](https://www.builtinchicago.org/job/engineer/software-engineering-manager-uxui/185773)  
+- John Deere  
+	- [Software Engineer, User Experience](https://www.builtinchicago.org/job/engineer/software-engineer-user-experience/181321)  
+	- [Senior Software Enginner - JDPrism](https://www.builtinchicago.org/job/engineer/senior-software-engineer-jdprism/186769)  
+- Options Clearing Corp.  
+	- [Associate Principal, Software Engineering: UI/UX](https://www.builtinchicago.org/job/engineer/associate-principal-software-engineering-uiux/175975)  
+	- [Principal, Software Engineering: UI/UX](https://www.builtinchicago.org/job/engineer/principal-software-engineering-uiux/125411)  
+- Sprout Social - [Principal Engineer - Front-End](https://www.builtinchicago.org/job/engineer/principal-engineer-front-end/183333)  
+- Visibly - [Wordpress Dev](https://www.builtinchicago.org/job/engineer/wordpress-developer/162804)  
+
+- [4DayWeek](https://4dayweek.io/)  
+
+<!-- 
 - [Twitter](https://careers.twitter.com/)
 	- [Senior Twitter.com, JS Eng](https://careers.twitter.com/en/work-for-twitter/202101/51973e38-263b-49ff-a41f-0e75e85f8465/9bd6752f-9f50-4a00-aae3-1297f69003c4.html/senior-twitter-com-javascript-engineer.html) (NYC/Tor/Atl/Bost)
 	- [Full-Stack SW Eng - Plat Exp](https://careers.twitter.com/en/work-for-twitter/202202/4d6e382a-bb56-413b-9d6f-a4f49b0c8f90/b6a1b725-29c1-45d0-9afb-3cb821b2413b.html/full-stack-software-engineer-platform-experience-remote-friendly.html)
@@ -234,5 +256,5 @@
 	- Questions
 		- [SW Eng Interview Questions](https://www.glassdoor.com/Interview/Grubhub-Software-Engineer-Interview-Questions-EI_IE419089.0,7_KO8,25.htm)
 		- [Senior SW Eng Interview Questions](https://www.glassdoor.com/Interview/Grubhub-Senior-Software-Engineer-Interview-Questions-EI_IE419089.0,7_KO8,32.htm?sort.sortType=RD&sort.ascending=false&filter.jobTitleFTS=Senior+Software+Engineer)
-- [Levels.fyi - Senior Frontend Engineer](https://levelsfyi.notion.site/Senior-Frontend-Engineer-140-190k-Salary-0-2-0-6-Equity-213e88723fcf479fa0e9fa1a2147c664)
-- [4DayWeek](https://4dayweek.io/)
+-->
+
