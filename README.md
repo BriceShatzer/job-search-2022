@@ -28,6 +28,7 @@
 [Reddit](#reddit)  
 ~[Shopify](#shopify---senior-frontend-software-developer)~  
 ~[Square](#square---lead-front-end-engineer)~  
+[Strive](#strive)  
 ~[Thoughtworks](#thoughtworks---senior-software-developer)~    
 ~[VividSeats](#vividseats)~  
 
@@ -95,6 +96,15 @@
 - [Senior / Staff Frontend Engineer - Consumer Products](https://boards.greenhouse.io/reddit/jobs/3848638) - 2 days on linkedIn
 - [Senior Frontend Engineer, Ads](https://boards.greenhouse.io/reddit/jobs/2558850) - 2 weeks on linkedIn
 - ~[Principal Frontend Engineer - Ads](https://boards.greenhouse.io/reddit/jobs/4265311) - 1 day on linkedIn~
+
+## [Strive](https://striveconsulting.com/)  
+- **Remote/Chicago**  
+- **Interview Process**  
+  1. ~Initial Call - [Tessa Rauwald](https://www.linkedin.com/in/tessarauwald/)~  
+  2. ~Manager Call - [Roshan Soni](https://www.linkedin.com/in/roshan-soni/) | [intro email](https://mail.google.com/mail/u/0/#search/strive/FMfcgzGqPpkjnZjQNqrPcxmLPZVzRFMT)~  
+  3. Technical Call  
+  
+
 
 
 ---
