@@ -26,7 +26,7 @@
 ~[New Relic](#new-relic)~  
 ~[Oracle](#oracle---principal-front-end-software-developer)~    
 [Reddit](#reddit)  
-[Rippling](#rippling)  
+~[Rippling](#rippling)~  
 ~[Shopify](#shopify---senior-frontend-software-developer)~  
 ~[Square](#square---lead-front-end-engineer)~  
 [Strive](#strive)  
@@ -97,15 +97,6 @@
 - [Senior / Staff Frontend Engineer - Consumer Products](https://boards.greenhouse.io/reddit/jobs/3848638) - 2 days on linkedIn
 - [Senior Frontend Engineer, Ads](https://boards.greenhouse.io/reddit/jobs/2558850) - 2 weeks on linkedIn
 - ~[Principal Frontend Engineer - Ads](https://boards.greenhouse.io/reddit/jobs/4265311) - 1 day on linkedIn~
-
-## Rippling
-- **Remote/SF**  
-- [Senior Frontend Software Engineer](https://www.rippling.com/careers/5255484003?gh_jid=5255484003)  
-	- Sounds Greenfield
-- Unified HR/Payroll/IT platform for businesses  
--**Interview Process**  
-	1. ~intial contact - [Scott Axel](https://www.linkedin.com/in/scottaxel/)~  
-	2. ... leet code? ಠ_ಠ
 
 
 ## [Strive](https://striveconsulting.com/)  
@@ -191,6 +182,16 @@
   2. ~Call w/ [Ian (Hiring manager)](https://www.linkedin.com/in/ian-butt-05953a5/)~
   3. ~Technical Call w/ Arcitects~
   4. Verbal Offer -> Written Offer -> BG Check
+
+## Rippling  
+*After careful consideration, the team has decided not to move forward with your candidacy. If it's ok with you, we'd love to reach out if another role opens up that's a better fit.*  
+- **Remote/SF**  
+- [Senior Frontend Software Engineer](https://www.rippling.com/careers/5255484003?gh_jid=5255484003)  
+	- Sounds Greenfield
+- Unified HR/Payroll/IT platform for businesses  
+-**Interview Process**  
+	1. ~intial contact - [Scott Axel](https://www.linkedin.com/in/scottaxel/)~  
+	2. ... leet code? ಠ_ಠ
 
 
 
