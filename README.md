@@ -107,7 +107,7 @@
 - **Interview Process**  
   1. ~Initial Call - [Tessa Rauwald](https://www.linkedin.com/in/tessarauwald/)~  
   2. ~Manager Call - [Roshan Soni](https://www.linkedin.com/in/roshan-soni/) | [intro email](https://mail.google.com/mail/u/0/#search/strive/FMfcgzGqPpkjnZjQNqrPcxmLPZVzRFMT)~  
-  3. Technical Call  
+  3. ~Additional Call~ - [Kevin Smith](https://www.linkedin.com/in/kevin-smith-19b3698/)  
   
 
 
