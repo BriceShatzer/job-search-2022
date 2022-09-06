@@ -13,11 +13,12 @@
 **[- IDEAS](#ideas)**
 
 ~[Adobe](#adobe---software-development-engineer---front-end)~  
-[CME Group](#cme-group---sr-software-engineer---frontend)  
+~[CME Group](#cme-group---sr-software-engineer---frontend)~  
 ~[Disney/ESPN](#disneyespn)~  
 [Fubo Gaming](#fubo-gaming---senior-software-engineer-webfrontend)  
 [Grubhub](#grubhub)  
 [Jackbox Games](#jackbox-games---front-end-software-engineer)  
+[Keurig Dr Pepper](#keurig-dr-pepper-inc---senior-frontend-developer)  
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
 [M1 Finance](#m1---senior-product-engineer)  
@@ -36,8 +37,6 @@
 
 ---  
 
-## CME Group - [Sr. Software Engineer - Frontend](https://jobs.cmegroup.com/jobs/9281517-sr-software-engineer-frontend#start)  
-- Chicago
 
 ## Fubo Gaming - [Senior Software Engineer, Web/Frontend](https://boards.greenhouse.io/fubogaming/jobs/3606653)  
 - Chicago  
@@ -60,6 +59,10 @@
 ## Jackbox Games - [Front End Software Engineer](https://jackbox-games.breezy.hr/p/74fefa6be41c-front-end-software-engineer)    
 - **Remote/Chicago**  
 - [Cover Letter](https://briceshatzer.com/blog/jackbox-cover-letter)
+
+## Keurig Dr Pepper Inc. - [Senior FrontEnd Developer](https://g.co/kgs/YSzebX)  
+- **Remote**
+- applied through linkedin  
 
 
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
@@ -118,6 +121,11 @@
 *Unfortunately, we will not be moving forward with your application*  
 - **Remote**  
 - LinkedIn
+
+
+## CME Group - [Sr. Software Engineer - Frontend](https://jobs.cmegroup.com/jobs/9281517-sr-software-engineer-frontend#start)  
+*The Sr. Software Engineer – Frontend role that you applied for recently at CME Group has been filled.*   
+- Chicago
 
 
 ## Disney/ESPN 
