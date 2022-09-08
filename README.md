@@ -15,14 +15,15 @@
 ~[Adobe](#adobe---software-development-engineer---front-end)~  
 ~[CME Group](#cme-group---sr-software-engineer---frontend)~  
 ~[Disney/ESPN](#disneyespn)~  
-[Fubo Gaming](#fubo-gaming---senior-software-engineer-webfrontend)  
+~[Fubo Gaming](#fubo-gaming---senior-software-engineer-webfrontend)~  
+[Getlabs](#getlab---senior-full-stack-engineer)  
 [Grubhub](#grubhub)  
 [Jackbox Games](#jackbox-games---front-end-software-engineer)  
 [Keurig Dr Pepper](#keurig-dr-pepper-inc---senior-frontend-developer)  
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
 [LMG Labs](#lmg-labs---full-time-front-end-developer)  
 [M1 Finance](#m1---senior-product-engineer)  
-[Medium](#medium---senior-web-product-engineer)  
+~[Medium](#medium---senior-web-product-engineer)~  
 ~[Microsoft](#microsoft)~  
 ~[New Relic](#new-relic)~  
 ~[Oracle](#oracle---principal-front-end-software-developer)~    
@@ -38,8 +39,24 @@
 ---  
 
 
-## Fubo Gaming - [Senior Software Engineer, Web/Frontend](https://boards.greenhouse.io/fubogaming/jobs/3606653)  
-- Chicago  
+
+
+
+## Getlab - [Senior Full Stack Engineer](https://www.getlabs.com/careers/4825fa64-90d2-4285-a195-7adb0f520bb3)  
+- Remote 
+- $180k - $200k?
+- Company Info
+	- Engineering org of roughly 11  
+	- [Video](https://cheddar.com/media/getlabs-raises-20-million-to-expand-at-home-lab-appointments-nationwide-and-launches-api)
+	- [Article](https://techcrunch.com/2022/02/03/getlabs-at-home-blood-tests-20m-series-a/)
+- **Interview Process**  
+  1. ~initial contact - Raabia Badat~  
+  2. Video Call w/ VP Engineering   
+  3. 1hr Technical Video Call  
+  4. Virtual On-Site - 3hrs, w/ live coding  
+
+
+
 
 
 ## Grubhub
@@ -61,9 +78,9 @@
 - [Cover Letter](https://briceshatzer.com/blog/jackbox-cover-letter)
 
 ## Keurig Dr Pepper Inc. - [Senior FrontEnd Developer](https://g.co/kgs/YSzebX)  
-- **Remote**
+- **Remote**  
 - applied through linkedin  
-
+- Was contacted on 8/30 & responded on 9/6 (one week later?)    
 
 ## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
 - **Remote/Surrey, BC**  
@@ -78,21 +95,6 @@
 - [levels.fyi](https://www.levels.fyi/companies/m1-finance/salaries/software-engineer)  
 
 
-
-
-
-## Medium - [Senior Web Product Engineer](https://jobs.lever.co/medium/802c2ae9-8735-4127-9d4e-2543e2dbf715)  
-- **Remote**
-- recruiter  
-- role starts at $180k (unclear if base or tc), 100% of medical, shares vested @ 25% over 4yrs  
-- **Interview Process**  
-  1. ~initial contact - [Ayelen Zamora](https://www.linkedin.com/in/aye-zamora/) - call on 6/28~  
-		-  *Response to following up on 7/13:  Medium closed from 4th - 8th & Ayelen returns 7/18*
-  3. hiring a manager interview  
-  4. take-home exercise  
-  5. "Loop"  
-
-
 ## Reddit
 - **Remote**
 - [Senior Frontend Engineer, Core Experience](https://boards.greenhouse.io/reddit/jobs/3972588) - 1 week on linkedIn
@@ -104,6 +106,8 @@
 
 ## [Strive](https://striveconsulting.com/)  
 - **Remote/Chicago**  
+- Told them that $155k was my floor, looking for $165k - $195k. Was told that was more in line w/ management.  
+- Comp is     
 - **Interview Process**  
   1. ~Initial Call - [Tessa Rauwald](https://www.linkedin.com/in/tessarauwald/)~  
   2. ~Manager Call - [Roshan Soni](https://www.linkedin.com/in/roshan-soni/) | [intro email](https://mail.google.com/mail/u/0/#search/strive/FMfcgzGqPpkjnZjQNqrPcxmLPZVzRFMT)~  
@@ -123,9 +127,11 @@
 - LinkedIn
 
 
+
 ## CME Group - [Sr. Software Engineer - Frontend](https://jobs.cmegroup.com/jobs/9281517-sr-software-engineer-frontend#start)  
 *The Sr. Software Engineer – Frontend role that you applied for recently at CME Group has been filled.*   
 - Chicago
+
 
 
 ## Disney/ESPN 
@@ -133,6 +139,13 @@
 - **Remote/Bristol,CT**
 - Sr Software Engineer, Frontend 
 	+ [LinkedIn](https://www.linkedin.com/jobs/view/3077923647) -> [Disney Job Board](https://jobs.disneycareers.com/job/-/-/391/29365820096)
+
+
+
+## Fubo Gaming - [Senior Software Engineer, Web/Frontend](https://boards.greenhouse.io/fubogaming/jobs/3606653)  
+*applied 8/5 & never heard back*
+- Chicago  
+
 
 
 
@@ -149,6 +162,21 @@
 		+ [Mike](https://www.linkedin.com/in/mikehoeg/)(**Hiring Manager**) & [Gene](https://www.linkedin.com/in/genepaularch/)(Staff Engineer) - STAR behavioral questions  
 		+ [Zach](https://www.linkedin.com/in/zachpratt/)(Principal Engineer) - Technical Questions  
 	4. Interviewing folks 6/13-17, should hear back by the mid/end of week of 6/20
+
+
+
+
+## Medium - [Senior Web Product Engineer](https://jobs.lever.co/medium/802c2ae9-8735-4127-9d4e-2543e2dbf715)  
+- **Remote**
+- recruiter  
+- role starts at $180k (unclear if base or tc), 100% of medical, shares vested @ 25% over 4yrs  
+- **Interview Process**  
+  1. ~initial contact - [Ayelen Zamora](https://www.linkedin.com/in/aye-zamora/) - call on 6/28~  
+		-  *Response to following up on 7/13:  Medium closed from 4th - 8th & Ayelen returns 7/18*
+  3. hiring a manager interview  
+  4. take-home exercise  
+  5. "Loop"  
+
 
 
 
