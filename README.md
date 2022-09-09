@@ -46,12 +46,14 @@
 - Remote 
 - $180k - $200k?
 - Company Info
-	- Engineering org of roughly 11  
+	- Engineering org of roughly 12ish, maybe 15/16 by EOY  
+	- shifting from B2C to partnership based  
+	- funded through EOY, expected follow-on through mid next year. Trying to raise a full round.  
 	- [Video](https://cheddar.com/media/getlabs-raises-20-million-to-expand-at-home-lab-appointments-nationwide-and-launches-api)
 	- [Article](https://techcrunch.com/2022/02/03/getlabs-at-home-blood-tests-20m-series-a/)
 - **Interview Process**  
-  1. ~initial contact - Raabia Badat~  
-  2. Video Call w/ VP Engineering   
+  1. ~Initial Contact - Raabia Badat~  
+  2. ~Video Call w/ VP Engineering - [Matt Rubens](https://www.linkedin.com/in/mattrubens/)~  
   3. 1hr Technical Video Call  
   4. Virtual On-Site - 3hrs, w/ live coding  
 
