@@ -31,6 +31,7 @@
 ~[Rippling](#rippling)~  
 ~[Shopify](#shopify---senior-frontend-software-developer)~  
 ~[Square](#square---lead-front-end-engineer)~  
+[Squarespace](#squarespace---senior-software-engineer-frontent)  
 [Strive](#strive)  
 ~[Thoughtworks](#thoughtworks---senior-software-developer)~    
 ~[VividSeats](#vividseats)~  
@@ -116,7 +117,9 @@
   3. ~Additional Call~ - [Kevin Smith](https://www.linkedin.com/in/kevin-smith-19b3698/)  
   
 
-
+## Squarespace - [Senior Software Engineer, Frontent](https://www.linkedin.com/jobs/view/3256888359/)  
+- **Remote/NYC**
+- LinkedIn
 
 ---
 
