@@ -16,7 +16,7 @@
 ~[CME Group](#cme-group---sr-software-engineer---frontend)~  
 ~[Disney/ESPN](#disneyespn)~  
 ~[Fubo Gaming](#fubo-gaming---senior-software-engineer-webfrontend)~  
-[Getlabs](#getlab---senior-full-stack-engineer)  
+~[Getlabs](#getlabs---senior-full-stack-engineer)~  
 [Grubhub](#grubhub)  
 [Jackbox Games](#jackbox-games---front-end-software-engineer)  
 [Keurig Dr Pepper](#keurig-dr-pepper-inc---senior-frontend-developer)  
@@ -38,27 +38,6 @@
 
 
 ---  
-
-
-
-
-
-## Getlab - [Senior Full Stack Engineer](https://www.getlabs.com/careers/4825fa64-90d2-4285-a195-7adb0f520bb3)  
-- Remote 
-- $180k - $200k?
-- Company Info
-	- Engineering org of roughly 12ish, maybe 15/16 by EOY  
-	- shifting from B2C to partnership based  
-	- funded through EOY, expected follow-on through mid next year. Trying to raise a full round.  
-	- [Video](https://cheddar.com/media/getlabs-raises-20-million-to-expand-at-home-lab-appointments-nationwide-and-launches-api)
-	- [Article](https://techcrunch.com/2022/02/03/getlabs-at-home-blood-tests-20m-series-a/)
-- **Interview Process**  
-  1. ~Initial Contact - Raabia Badat~  
-  2. ~Video Call w/ VP Engineering - [Matt Rubens](https://www.linkedin.com/in/mattrubens/)~  
-  3. 1hr Technical Video Call  
-  4. Virtual On-Site - 3hrs, w/ live coding  
-
-
 
 
 
@@ -150,6 +129,24 @@
 ## Fubo Gaming - [Senior Software Engineer, Web/Frontend](https://boards.greenhouse.io/fubogaming/jobs/3606653)  
 *applied 8/5 & never heard back*
 - Chicago  
+
+
+## Getlabs - [Senior Full Stack Engineer](https://www.getlabs.com/careers/4825fa64-90d2-4285-a195-7adb0f520bb3)  
+*Thank you for taking the time to interview with us this week. Unfortunately, we have decided not to proceed with your application at this time.*
+- Remote 
+- $180k - $200k?
+- Company Info
+	- Engineering org of roughly 12ish, maybe 15/16 by EOY  
+	- shifting from B2C to partnership based  
+	- funded through EOY, expected follow-on through mid next year. Trying to raise a full round.  
+	- [Video](https://cheddar.com/media/getlabs-raises-20-million-to-expand-at-home-lab-appointments-nationwide-and-launches-api)
+	- [Article](https://techcrunch.com/2022/02/03/getlabs-at-home-blood-tests-20m-series-a/)
+- **Interview Process**  
+  1. ~Initial Contact - Raabia Badat~  
+  2. ~Video Call w/ VP Engineering - [Matt Rubens](https://www.linkedin.com/in/mattrubens/)~  
+  3. 1hr Technical Video Call  
+  4. Virtual On-Site - 3hrs, w/ live coding  
+
 
 
 
