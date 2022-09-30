@@ -18,10 +18,10 @@
 ~[Fubo Gaming](#fubo-gaming---senior-software-engineer-webfrontend)~  
 ~[Getlabs](#getlabs---senior-full-stack-engineer)~  
 [Grubhub](#grubhub)  
-[Jackbox Games](#jackbox-games---front-end-software-engineer)  
+~[Jackbox Games](#jackbox-games---front-end-software-engineer)~  
 [Keurig Dr Pepper](#keurig-dr-pepper-inc---senior-frontend-developer)  
 ~[John Deere](#john-deere---ux-staff-software-engineer)~  
-[LMG Labs](#lmg-labs---full-time-front-end-developer)  
+~[LMG Labs](#lmg-labs---full-time-front-end-developer)~  
 [M1 Finance](#m1---senior-product-engineer)  
 ~[Medium](#medium---senior-web-product-engineer)~  
 ~[Microsoft](#microsoft)~  
@@ -54,21 +54,10 @@
 - ~[Senior Web Engineer](https://www.linkedin.com/jobs/view/3081842392) - No longer accepting applications~
   
 
-
-## Jackbox Games - [Front End Software Engineer](https://jackbox-games.breezy.hr/p/74fefa6be41c-front-end-software-engineer)    
-- **Remote/Chicago**  
-- [Cover Letter](https://briceshatzer.com/blog/jackbox-cover-letter)
-
 ## Keurig Dr Pepper Inc. - [Senior FrontEnd Developer](https://g.co/kgs/YSzebX)  
 - **Remote**  
 - applied through linkedin  
 - Was contacted on 8/30 & responded on 9/6 (one week later?)    
-
-## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
-- **Remote/Surrey, BC**  
-- ¯\\\_(ツ)\_/¯
-
-
 
 ## M1 - [Senior Product Engineer](https://boards.greenhouse.io/m1finance/jobs/4249031)  
 - *not yet applied*  
@@ -87,9 +76,10 @@
 
 
 ## [Strive](https://striveconsulting.com/)  
+*Declined offer*
 - **Remote/Chicago**  
 - Told them that $155k was my floor, looking for $165k - $195k. Was told that was more in line w/ management.  
-- Comp is     
+- offer of $150k base, w/ possibility of up to 15% bonus.      
 - **Interview Process**  
   1. ~Initial Call - [Tessa Rauwald](https://www.linkedin.com/in/tessarauwald/)~  
   2. ~Manager Call - [Roshan Soni](https://www.linkedin.com/in/roshan-soni/) | [intro email](https://mail.google.com/mail/u/0/#search/strive/FMfcgzGqPpkjnZjQNqrPcxmLPZVzRFMT)~  
@@ -149,6 +139,11 @@
 
 
 
+## Jackbox Games - [Front End Software Engineer](https://jackbox-games.breezy.hr/p/74fefa6be41c-front-end-software-engineer)    
+*MIA*
+- **Remote/Chicago**  
+- [Cover Letter](https://briceshatzer.com/blog/jackbox-cover-letter)
+
 
 
 ## John Deere - [UX Staff Software Engineer](https://jobs.deere.com/job/Chicago-UX-Staff-Software-Engineer-%28CA%29-Illi-60607/892887000/)
@@ -165,6 +160,12 @@
 		+ [Zach](https://www.linkedin.com/in/zachpratt/)(Principal Engineer) - Technical Questions  
 	4. Interviewing folks 6/13-17, should hear back by the mid/end of week of 6/20
 
+
+
+## LMG Labs - [Full-Time Front-End Developer](https://linusmediagroup.com/jobs)
+*MIA*
+- **Remote/Surrey, BC**  
+- ¯\\\_(ツ)\_/¯
 
 
 
